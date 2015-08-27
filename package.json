@@ -1,4 +1,12 @@
 {
   "name": "async-exec",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "gitHead": "e28f8f830de341f983dacb629df18cf85f4668a1",
+  "readme": "# NodeJs<br />\r\nasync-exec 子进程异步逻辑执行框架<br />\r\n\r\n使用说明请见sample.js",
+  "readmeFilename": "README.md",
+  "description": "async-exec 子进程异步逻辑执行框架<br />",
+  "_id": "async-exec@1.0.0",
+  "_shasum": "d76a39ce702114b95080a0d196e122b38e155ce6",
+  "_from": "lasting0001/async-exec",
+  "_resolved": "git://github.com/lasting0001/async-exec.git#e28f8f830de341f983dacb629df18cf85f4668a1"
 }
